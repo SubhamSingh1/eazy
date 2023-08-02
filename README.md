@@ -1,0 +1,2 @@
+# eazy
+Assignment for interview 
