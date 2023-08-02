@@ -1,0 +1,11 @@
+Follow this steps for run this project
+
+1. git clone or unzip
+2. create database "eazy_erp" in pgadmin.
+3. run command: npm install
+4. run command: npm run migrate
+5. run command: npm run seed 
+6. run command: pm2 start .\ecosystem.config.js
+
+*Note = 1.To login first create an user with register user api (url/users type POST).
+*Note = 2. The token expiry time has been set to 1 hr 
